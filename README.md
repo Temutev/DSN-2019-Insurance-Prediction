@@ -3,3 +3,5 @@ Build a predictive model to determine if a building will have an insurance claim
 The model will be based on the building characteristics:
 - The target variable, Claim, is a:  1 if the building has at least a claim over the insured period.
 -  0 if the building doesn’t have a claim over the insured period.
+
+## Solution for 40 out of 449 active participants on the competition.
