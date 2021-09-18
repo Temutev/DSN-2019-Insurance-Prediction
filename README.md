@@ -5,3 +5,5 @@ The model will be based on the building characteristics:
 -  0 if the building doesn’t have a claim over the insured period.
 
 ## Solution for 40 out of 449 active participants on the competition.
+### Zindi
+https://zindi.africa/competitions/data-science-nigeria-2019-challenge-1-insurance-prediction/leaderboard
